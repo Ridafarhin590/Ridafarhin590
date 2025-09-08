@@ -42,7 +42,7 @@ Tools & Other : Git, GitHub, Postman, VS Code, Figma
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshgupta2774&theme=onestar&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ridafarhin590&theme=onestar&row=1&column=6" />
 </p>
 
 ---
@@ -50,7 +50,7 @@ Tools & Other : Git, GitHub, Postman, VS Code, Figma
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshgupta2774&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ridafarhin590&theme=react-dark" />
 </p>
 
 ---
@@ -58,9 +58,9 @@ Tools & Other : Git, GitHub, Postman, VS Code, Figma
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/harshgupta2774/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/harshgupta2774" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:ridafarhin59@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rida-farhin-8363552b5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/usr" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
 <p align="center">
