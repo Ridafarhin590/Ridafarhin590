@@ -60,9 +60,9 @@ Tools & Other : Git, GitHub, Postman, VS Code, Figma
 <p align="center">
   <a href="mailto:ridafarhin59@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/rida-farhin-8363552b5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/usr" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://x.com/rida_farhin59" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshgupta2774&label=Profile+Views&color=blueviolet&style=flat" alt="harshgupta2774" />
+  <img src="" alt="ridafarhin" />
 </p>
