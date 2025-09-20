@@ -64,5 +64,5 @@ Tools & Other : Git, GitHub, Postman, VS Code, Figma
 </p>
 
 <p align="center">
-  <img src="" alt="ridafarhin" />
+  <img src="RIDA.png" alt="ridafarhin" />
 </p>
