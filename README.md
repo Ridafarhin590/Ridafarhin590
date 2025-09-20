@@ -64,5 +64,5 @@ Tools & Other : Git, GitHub, Postman, VS Code, Figma
 </p>
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1i_FPHTXWFbpXfAA6rX3yhJZ0T3NZvXV9/view?usp=sharing" alt="ridafarhin" />
+  <img src="" alt="ridafarhin" />
 </p>
