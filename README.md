@@ -64,5 +64,5 @@ Tools & Other : Git, GitHub, Postman, VS Code, Figma
 </p>
 
 <p align="center">
-  <img src="RIDA.png" alt="ridafarhin" />
+  <img src="https://drive.google.com/drive/my-drive/RIDA.png" alt="ridafarhin" />
 </p>
