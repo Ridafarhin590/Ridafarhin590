@@ -39,12 +39,7 @@ Tools & Other : Git, GitHub, Postman, VS Code, Figma
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ridafarhin590&theme=onestar&row=1&column=6" />
-</p>
-
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ridafarhin590&theme=onestar&row=1&column=6" /> </p>
 ---
 
 ### 📈 Contribution Graph
