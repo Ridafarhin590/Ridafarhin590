@@ -30,20 +30,6 @@ Tools & Other : Git, GitHub, Postman, VS Code, Figma
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ridafarhin590&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ridafarhin590&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ridafarhin590&theme=onestar&row=1&column=6)
-
-
-
 
 ### 📈 Contribution Graph
 
