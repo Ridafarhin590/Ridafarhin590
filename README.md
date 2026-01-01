@@ -32,15 +32,21 @@ Tools & Other : Git, GitHub, Postman, VS Code, Figma
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ridafarhin590&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ridafarhin590&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ridafarhin590&show_icons=true&theme=tokyonight"
+    height="160"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ridafarhin590&theme=tokyonight"
+    height="160"
+  />
 </p>
 
 ---
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ridafarhin590&theme=onestar&row=1&column=6" /> </p>
----
 
 ### 📈 Contribution Graph
 
