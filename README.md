@@ -34,7 +34,7 @@ Tools & Other : Git, GitHub, Postman, VS Code, Figma
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ridafarhin590&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshgupta2774&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ridafarhin590&theme=tokyonight" />
 </p>
 
 ---
