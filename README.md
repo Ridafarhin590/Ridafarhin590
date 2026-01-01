@@ -14,7 +14,7 @@
 - 📚 Key Subjects: DSA, OOPS, DBMS, CN
 - 💻 Solved **300+ DSA problems** on LeetCode, GFG, Codeforces
 - 🚀 Currently building a **MERN Stack Job Portal**
-- 🌱 Learning DevOps & System Design basics
+- 🌱 Learning MERN Stack and AI/ML
 
 ---
 
