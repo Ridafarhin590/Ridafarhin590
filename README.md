@@ -12,7 +12,7 @@
 
 - 🎓 2nd Year **MCA Student @ RKDF University**
 - 📚 Key Subjects: DSA, OOPS, DBMS, CN
-- 💻 Solved **300+ DSA problems** on LeetCode, GFG, Codeforces
+- 💻 Solved **700+ DSA problems** on LeetCode, GFG, Codeforces
 - 🚀 Currently building a **MERN Stack Job Portal**
 - 🌱 Learning MERN Stack and AI/ML
 
