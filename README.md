@@ -10,11 +10,14 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 2nd Year **MCA Student @ RKDF University**
-- 📚 Key Subjects: DSA, OOPS, DBMS, CN
-- 💻 Solved **700+ DSA problems** on LeetCode, GFG, Codeforces
-- 🚀 Currently building a **MERN Stack Job Portal**
-- 🌱 Learning MERN Stack and AI/ML
+- 🎓 MCA Graduate (CGPA: **8.4/10**) from **RKDF University**
+- 💼 Completed a **1-Year Software Engineer Internship**
+- 💻 Solved **1200+ DSA Problems** on LeetCode using Java
+- 🚀 Built **SNAPCLASS** – AI-Based Smart Attendance System using Face Recognition, Voice Recognition, Python, Streamlit & Supabase
+- 🤖 Developed **SigmaGPT** – AI Chat Application using the MERN Stack and OpenAI API
+- 🏡 Created **Wanderlust** – Full-Stack Airbnb Clone using Node.js, Express.js, MongoDB & EJS
+- 🌐 Passionate about **Java, MERN Stack, AI/ML, REST APIs, Cloud Computing & Problem Solving**
+- ☁️ AWS Certified | Open Source Contributor | Always Learning New Technologies
 
 ---
 
@@ -73,9 +76,21 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:ridafarhin59@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/rida-farhin-8363552b5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/rida_farhin59" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:ridafarhin59@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/rida-farhin-8363552b5/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://x.com/rida_farhin59" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  
+  <a href="https://ridafarhin-portfolio5.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
