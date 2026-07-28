@@ -13,6 +13,7 @@
 - 🎓 MCA Graduate (CGPA: **8.4/10**) from **RKDF University**
 - 💼 Completed a **1-Year Software Engineer Internship**
 - 💻 Solved **1200+ DSA Problems** on LeetCode using Java
+- 🏆 Ranked among the Top 0.2% on LeetCode with a global rank of 16,577
 - 🚀 Built **SNAPCLASS** – AI-Based Smart Attendance System using Face Recognition, Voice Recognition, Python, Streamlit & Supabase
 - 🤖 Developed **SigmaGPT** – AI Chat Application using the MERN Stack and OpenAI API
 - 🏡 Created **Wanderlust** – Full-Stack Airbnb Clone using Node.js, Express.js, MongoDB & EJS
