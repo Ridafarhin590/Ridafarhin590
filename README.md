@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rida Farhin</h1>
-<h3 align="center">🚀Software Engineer | Java | MERN | AI | AWS | Top 0.2% LeetCode top 0.2% LeetCode| RKDF University</h3>
+<h3 align="center">🚀Software Engineer | Java | MERN | AI | AWS | Top 0.2% LeetCode 1200+ DSA Problems solved | </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;DSA+Practitioner+%F0%9F%A7%9A;Coding+Mentor+%F0%9F%92%BB;Lifelong+Learner" alt="Typing SVG" />
