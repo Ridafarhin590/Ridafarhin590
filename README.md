@@ -63,19 +63,13 @@
 
 ---
 
+
 ## 📜 Certifications
 
-<p align="left">
-
-<img src="https://img.shields.io/badge/AWS-CloudOps%20Engineer%20Associate%20(In%20Progress)-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-
-<img src="https://img.shields.io/badge/DSA-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Full%20Stack-Web%20Development-61DAFB?style=for-the-badge&logo=react&logoColor=20232A" />
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-Certified-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
-
-</p>
+- ☁️ **AWS CloudOps Engineer – Associate** *(In Progress)*
+- ☕ **Data Structures & Algorithms with Java** — **Apna College**
+- 💻 **Full Stack Web Development (MERN Stack)** — **Apna College**
+- 🤖 **Artificial Intelligence** — **Apna College**
 
 ---
 
