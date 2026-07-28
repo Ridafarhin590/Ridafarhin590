@@ -17,7 +17,7 @@
 - 🤖 Developed **SigmaGPT** – AI Chat Application using the MERN Stack and OpenAI API
 - 🏡 Created **Wanderlust** – Full-Stack Airbnb Clone using Node.js, Express.js, MongoDB & EJS
 - 🌐 Passionate about **Java, MERN Stack, AI/ML, REST APIs, Cloud Computing & Problem Solving**
-- ☁️ AWS Certified | Open Source Contributor | Always Learning New Technologies
+- ☁️ AWS Certified CloudOps Engineer - Associate - in progress | Open Source Contributor | Always Learning New Technologies
 
 ---
 
