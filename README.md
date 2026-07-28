@@ -10,7 +10,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 MCA Graduate (CGPA: **8.4/10**) from **RKDF University**
+- 🎓 MCA Graduate (CGPA: **8.4/10**) | **University Topper** | **RKDF University**
 - 💼 Completed a **1-Year Software Engineer Internship**
 - 💻 Solved **1200+ DSA Problems** on LeetCode using Java
 - 🏆 Ranked among the Top 0.2% on LeetCode with a global rank of 16,577
