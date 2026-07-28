@@ -69,11 +69,13 @@
 
 ## 📜 Certifications
 
-- ☁️ **AWS Certified CloudOps Engineer – Associate** *(In Progress)*
-- ☕ **Data Structures & Algorithms with Java**
-- 💻 **Full Stack Web Development**
-- 🤖 **Artificial Intelligence**
-### 📈 Contribution Graph
+![AWS](https://img.shields.io/badge/AWS-CloudOps_Engineer_Associate_(In_Progress)-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-Java-orange?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![Full Stack](https://img.shields.io/badge/Full_Stack-Web_Development-blue?style=for-the-badge&logo=javascript&logoColor=white)
+
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-Certified-purple?style=for-the-badge&logo=openai&logoColor=white)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ridafarhin590&theme=react-dark" />
