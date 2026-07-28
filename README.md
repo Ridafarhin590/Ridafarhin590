@@ -79,6 +79,8 @@
 
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-Certified-purple?style=for-the-badge&logo=openai&logoColor=white)
 
+---
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ridafarhin590&theme=react-dark" />
 </p>
