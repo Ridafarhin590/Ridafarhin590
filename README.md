@@ -65,13 +65,17 @@
 
 ## 📜 Certifications
 
-![AWS](https://img.shields.io/badge/AWS-CloudOps_Engineer_Associate_(In_Progress)-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+<p align="left">
 
-![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-Java-orange?style=for-the-badge&logo=openjdk&logoColor=white)
+<img src="https://img.shields.io/badge/AWS-CloudOps%20Engineer%20Associate%20(In%20Progress)-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
-![Full Stack](https://img.shields.io/badge/Full_Stack-Web_Development-blue?style=for-the-badge&logo=javascript&logoColor=white)
+<img src="https://img.shields.io/badge/DSA-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-Certified-purple?style=for-the-badge&logo=openai&logoColor=white)
+<img src="https://img.shields.io/badge/Full%20Stack-Web%20Development-61DAFB?style=for-the-badge&logo=react&logoColor=20232A" />
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-Certified-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+
+</p>
 
 ---
 
