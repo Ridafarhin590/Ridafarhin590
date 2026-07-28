@@ -67,6 +67,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
+---
+
 ## 📜 Certifications
 
 ![AWS](https://img.shields.io/badge/AWS-CloudOps_Engineer_Associate_(In_Progress)-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
