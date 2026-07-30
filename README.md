@@ -82,7 +82,7 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="[![Gmail](https://shields.io)](mailto:ridafarhin59@gmail.com)"> 
+  <a href="mailto:ridafarhin59@gmail.com"> 
     <img src="https://img.shields.io/bail-dge/GmaD14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
